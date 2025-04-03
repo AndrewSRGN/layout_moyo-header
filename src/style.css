@@ -3,7 +3,7 @@ body {
   font-family: Roboto, sans-serif;
 
   --header-height: 60px;
-  --color-blue: #00ACDC;
+  --color-blue: #00acdc;
 }
 
 .header {
@@ -42,7 +42,7 @@ body {
   text-decoration: none;
 }
 
-.nav__link:visited  {
+.nav__link:visited {
   color: #000;
 }
 
